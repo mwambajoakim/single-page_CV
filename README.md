@@ -1,4 +1,4 @@
-# Single-Page CV
+# <ins>Single-Page CV</ins>
 
 ## Introduction
 
