@@ -26,4 +26,4 @@ Be sure to take a look and critique the work and show areas of improvement. I wi
 
 Here is a snippet of how it came out;
 
-![alt text](image.png)
+![Snippet of project](images/image.png)
